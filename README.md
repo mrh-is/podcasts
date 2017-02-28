@@ -59,3 +59,7 @@ I'll get to these, eventually.
 
 1. [Detective](https://audioboom.com/channel/detective)
 2. [The Guardian's Audio Long Reads](https://www.theguardian.com/news/series/the-audio-long-read)
+
+# Or, if you're lazy
+
+You can add [my feed](overcast.opml) directly to Overcast.
