@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+	<head>
+		<title>Overcast Podcast Subscriptions</title>
+	</head>
+	<body>
+		<outline type="rss" text="50 Things That Made the Modern Economy" title="50 Things That Made the Modern Economy" xmlUrl="http://www.bbc.co.uk/programmes/p04b1g3c/episodes/downloads.rss" htmlUrl="http://www.bbc.co.uk/programmes/p04b1g3c"/>
+		<outline type="rss" text="99% Invisible" title="99% Invisible" xmlUrl="http://feeds.99percentinvisible.org/99percentinvisible" htmlUrl="http://99percentinvisible.org/"/>
+		<outline type="rss" text="A History of the World in 100 Objects" title="A History of the World in 100 Objects" xmlUrl="http://www.bbc.co.uk/programmes/b00nrtd2/episodes/downloads.rss" htmlUrl="http://www.bbc.co.uk/programmes/b00nrtd2"/>
+		<outline type="rss" text="Actuality" title="Actuality" xmlUrl="http://www.marketplace.org/podcasts/collections/152060/itunes" htmlUrl="http://www.marketplace.org/topics/world/actuality-marketplace-and-quartz"/>
+		<outline type="rss" text="Bay Curious" title="Bay Curious" xmlUrl="https://ww2.kqed.org/news/category/bay-curious-podcast/feed/podcast" htmlUrl="http://www.baycurious.org/"/>
+		<outline type="rss" text="Breakdown" title="Breakdown" xmlUrl="http://feeds.feedburner.com/BreakdownPodcast" htmlUrl="http://ajcbreakdown.com/"/>
+		<outline type="rss" text="Civics 101" title="Civics 101" xmlUrl="https://audioboom.com/channels/4893065.rss" htmlUrl="https://audioboom.com/channel/civics-101"/>
+		<outline type="rss" text="Criminal" title="Criminal" xmlUrl="http://feeds.feedburner.com/CriminalShow" htmlUrl="http://thisiscriminal.com/"/>
+		<outline type="rss" text="Detective" title="Detective" xmlUrl="http://feeds.feedburner.com/Detective" htmlUrl="http://www.investigationdiscovery.com/"/>
+		<outline type="rss" text="Devil's Avocado" title="Devil's Avocado" xmlUrl="https://simplecast.com/podcasts/1959/rss" htmlUrl=""/>
+		<outline type="rss" text="Fatal Error" title="Fatal Error" xmlUrl="https://fatalerror.fm/episodes?format=RSS" htmlUrl="https://fatalerror.fm/"/>
+		<outline type="rss" text="Financial Independence Podcast - Early Retirement | Investing | Real Estate | Entrepreneurship" title="Financial Independence Podcast - Early Retirement | Investing | Real Estate | Entrepreneurship" xmlUrl="http://feeds.feedburner.com/MadFientistPodcast" htmlUrl="http://www.madfientist.com/"/>
+		<outline type="rss" text="Front-end Five" title="Front-end Five" xmlUrl="https://frontendfive.codeschool.com/feed.rss" htmlUrl="https://frontendfive.codeschool.com/"/>
+		<outline type="rss" text="Good Job, Brain!" title="Good Job, Brain!" xmlUrl="http://goodjobbrain.libsyn.com/rss" htmlUrl="http://goodjobbrain.com/"/>
+		<outline type="rss" text="Homecoming" title="Homecoming" xmlUrl="http://feeds.gimletmedia.com/homecomingshow" htmlUrl="https://feeds.gimletmedia.com/show/homecoming"/>
+		<outline type="rss" text="Imaginary Worlds" title="Imaginary Worlds" xmlUrl="http://feeds.feedburner.com/imaginaryworldspodcast" htmlUrl="http://imaginaryworldspodcast.org/"/>
+		<outline type="rss" text="In Our Time: History" title="In Our Time: History" xmlUrl="http://www.bbc.co.uk/programmes/p01dh5yg/episodes/downloads.rss" htmlUrl="http://www.bbc.co.uk/programmes/p01dh5yg"/>
+		<outline type="rss" text="In Our Time: Science" title="In Our Time: Science" xmlUrl="http://www.bbc.co.uk/programmes/p01gyd7j/episodes/downloads.rss" htmlUrl="http://www.bbc.co.uk/programmes/p01gyd7j"/>
+		<outline type="rss" text="Intelligence Squared U.S. Debates" title="Intelligence Squared U.S. Debates" xmlUrl="http://iq2.iq2us.libsynpro.com/rss" htmlUrl="http://intelligencesquaredus.org/"/>
+		<outline type="rss" text="Intelligence Squared" title="Intelligence Squared" xmlUrl="http://rss.acast.com/intelligencesquared" htmlUrl=""/>
+		<outline type="rss" text="Invisibilia" title="Invisibilia" xmlUrl="http://www.npr.org/rss/podcast.php?id=510307" htmlUrl="http://www.npr.org/programs/invisibilia"/>
+		<outline type="rss" text="iOS Bytes" title="iOS Bytes" xmlUrl="https://iosbytes.codeschool.com/feed.rss" htmlUrl="https://iosbytes.codeschool.com/"/>
+		<outline type="rss" text="LifeAfter" title="LifeAfter" xmlUrl="http://feeds.feedburner.com/themessagepodcast" htmlUrl="http://lif-e.af/ter"/>
+		<outline type="rss" text="Limetown" title="Limetown" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:125221818/sounds.rss" htmlUrl="http://www.limetownstories.com/"/>
+		<outline type="rss" text="Make Money Online" title="Make Money Online" xmlUrl="https://simplecast.com/podcasts/1473/rss" htmlUrl="http://makemoneyonline.exposed/"/>
+		<outline type="rss" text="Making Oprah" title="Making Oprah" xmlUrl="http://feeds.feedburner.com/wbez-making" htmlUrl="https://www.wbez.org/shows/making-oprah/71b8de57-b2be-4e03-8481-683258de3ec1"/>
+		<outline type="rss" text="mrhis on Narro" title="mrhis on Narro" xmlUrl="http://on.narro.co/mrhis" htmlUrl="http://on.narro.co/mrhis"/>
+		<outline type="rss" text="Negotiation Tip of the Week" title="Negotiation Tip of the Week" xmlUrl="http://feeds.feedburner.com/ottergroup/negotiationtip" htmlUrl="http://negotiationtip.com/"/>
+		<outline type="rss" text="Planet Money" title="Planet Money" xmlUrl="http://www.npr.org/rss/podcast.php?id=510289" htmlUrl="http://www.npr.org/planetmoney"/>
+		<outline type="rss" text="Radiolab Presents: More Perfect" title="Radiolab Presents: More Perfect" xmlUrl="http://feeds.wnyc.org/moreperfect" htmlUrl="http://www.wnyc.org/shows/radiolabmoreperfect"/>
+		<outline type="rss" text="Reply All" title="Reply All" xmlUrl="http://feeds.gimletmedia.com/hearreplyall" htmlUrl="http://gimletmedia.com/shows/reply-all"/>
+		<outline type="rss" text="Revolutions" title="Revolutions" xmlUrl="http://revolutionspodcast.libsyn.com/rss" htmlUrl="http://www.revolutionspodcast.com/"/>
+		<outline type="rss" text="Science Vs" title="Science Vs" xmlUrl="http://feeds.gimletmedia.com/sciencevs" htmlUrl="https://gimletmedia.com/science-vs/"/>
+		<outline type="rss" text="Selected Shorts" title="Selected Shorts" xmlUrl="http://feeds.feedburner.com/Selected-Shorts" htmlUrl="https://itunes.com/selectedshorts"/>
+		<outline type="rss" text="Selected Shorts: Too Hot For Radio" title="Selected Shorts: Too Hot For Radio" xmlUrl="http://feeds.feedburner.com/TooHotForRadio" htmlUrl="http://www.symphonyspace.org/"/>
+		<outline type="rss" text="Serial" title="Serial" xmlUrl="http://feeds.serialpodcast.org/serialpodcast" htmlUrl="https://serialpodcast.org/"/>
+		<outline type="rss" text="Side Hustle School" title="Side Hustle School" xmlUrl="http://feeds.feedburner.com/SideHustleSchool" htmlUrl="http://sidehustleschool.com/"/>
+		<outline type="rss" text="Slate's Amicus with Dahlia Lithwick" title="Slate's Amicus with Dahlia Lithwick" xmlUrl="http://feeds.feedburner.com/SlateAmicusWithDahliaLithwick" htmlUrl="http://www.slate.com/podcasts"/>
+		<outline type="rss" text="Slate's Negotiation Academy" title="Slate's Negotiation Academy" xmlUrl="http://feeds.feedburner.com/SlateNegotiationAcademy" htmlUrl="http://www.slate.com/negotiation"/>
+		<outline type="rss" text="StartUp Podcast" title="StartUp Podcast" xmlUrl="http://feeds.hearstartup.com/hearstartup" htmlUrl="http://gimletmedia.com/"/>
+		<outline type="rss" text="Strangers" title="Strangers" xmlUrl="http://feeds.strangersnomore.org/StrangersNoMore" htmlUrl="http://www.storycentral.org/"/>
+		<outline type="rss" text="Surprisingly Awesome" title="Surprisingly Awesome" xmlUrl="http://feeds.gimletmedia.com/surprisinglyawesome" htmlUrl="https://gimletmedia.com/show/surprisingly-awesome/"/>
+		<outline type="rss" text="The Allusionist" title="The Allusionist" xmlUrl="http://feeds.theallusionist.org/Allusionist" htmlUrl="http://theallusionist.org/"/>
+		<outline type="rss" text="The Ancient World" title="The Ancient World" xmlUrl="http://feeds.feedburner.com/blogspot/iQHnJ" htmlUrl="http://ancientworldpodcast.blogspot.com/"/>
+		<outline type="rss" text="The British History Podcast" title="The British History Podcast" xmlUrl="http://feeds.feedburner.com/TheBritishHistoryPodcast" htmlUrl="https://www.thebritishhistorypodcast.com/"/>
+		<outline type="rss" text="The Guardian's Audio Long Reads" title="The Guardian's Audio Long Reads" xmlUrl="https://www.theguardian.com/news/series/the-audio-long-read/podcast.xml" htmlUrl="https://www.theguardian.com/news/series/the-audio-long-read"/>
+		<outline type="rss" text="The Heart" title="The Heart" xmlUrl="http://feeds.theheartradio.org/TheHeartRadio" htmlUrl="http://theheartradio.org/"/>
+		<outline type="rss" text="The History Chicks" title="The History Chicks" xmlUrl="http://feeds.feedburner.com/TheHistoryChicks" htmlUrl="http://thehistorychicks.com/"/>
+		<outline type="rss" text="The History of Byzantium" title="The History of Byzantium" xmlUrl="http://thehistoryofbyzantium.libsyn.com/rss" htmlUrl="http://www.thehistoryofbyzantium.com/"/>
+		<outline type="rss" text="The History of Iran Podcast" title="The History of Iran Podcast" xmlUrl="http://feeds.feedburner.com/historyofiran" htmlUrl="http://historyofiran.libsyn.com/"/>
+		<outline type="rss" text="The History of Rome" title="The History of Rome" xmlUrl="http://historyofrome.libsyn.com/rss" htmlUrl="http://thehistoryofrome.typepad.com/the_history_of_rome/"/>
+		<outline type="rss" text="The United States of Anxiety" title="The United States of Anxiety" xmlUrl="http://feeds.wnyc.org/unitedstatesofanxiety" htmlUrl="http://www.wnyc.org/shows/anxiety"/>
+		<outline type="rss" text="There Goes the Neighborhood" title="There Goes the Neighborhood" xmlUrl="http://feeds.feedburner.com/wnyc_neighborhood" htmlUrl="http://www.wnyc.org/shows/neighborhood"/>
+		<outline type="rss" text="Twice Removed" title="Twice Removed" xmlUrl="http://feeds.gimletmedia.com/twiceremovedshow" htmlUrl="https://www.gimletmedia.com/twice-removed"/>
+		<outline type="rss" text="Undone" title="Undone" xmlUrl="http://feeds.gimletmedia.com/undoneshow" htmlUrl="https://www.gimletmedia.com/show/undone"/>
+		<outline type="rss" text="Up and Vanished" title="Up and Vanished" xmlUrl="https://audioboom.com/channels/4811953.rss" htmlUrl="https://audioboom.com/channel/up-and-vanished"/>
+		<outline type="rss" text="Vox's The Weeds" title="Vox's The Weeds" xmlUrl="http://feeds.feedburner.com/voxtheweeds" htmlUrl="http://voxtheweeds.slate.libsynpro.com/podcast"/>
+		<outline type="rss" text="What The Crime?!" title="What The Crime?!" xmlUrl="http://feeds.feedburner.com/WhatTheCrime" htmlUrl="http://www.crimefeed.com/"/>
+		<outline type="rss" text="You're the Expert" title="You're the Expert" xmlUrl="http://feeds.feedburner.com/youretheexpert" htmlUrl="http://youretheexpert.libsyn.com/"/>
+	</body>
+</opml>
